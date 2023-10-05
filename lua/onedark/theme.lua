@@ -331,7 +331,7 @@ theme.set_highlights = function()
   hl(0, "CmpItemKindReference", { fg = c.base05, bg = 'NONE' })
   hl(0, "CmpItemKindOperator", { fg = c.base05, bg = 'NONE' })
   hl(0, "CmpItemKindTypeParameter", { fg = c.red, bg = 'NONE' })
-  hl(0, "CmpDocBorder", { fg = c.darker_black, bg = 'NONE' })
+  hl(0, "CmpDocBorder", { fg = '#565B62', bg = 'NONE' })
 
   -- ToggleTerm
   hl(0, "ToggleTerm1FloatBorder", { fg = c.line, bg = 'NONE' })
